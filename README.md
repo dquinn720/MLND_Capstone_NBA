@@ -14,4 +14,4 @@ datetime
 time
 sklearn
 
-the visuals.py file and .csv files need to be in teh same directory as the notebook
+the visuals.py file and .csv files need to be in the same directory as the notebook
